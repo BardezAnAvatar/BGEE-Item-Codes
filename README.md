@@ -1,4 +1,4 @@
-# Bardez's BG:EE Craftable Items
+# Bardez's BG:EE Items Codes
 Version: 0.0.1
 
 Author: [Bardez](https://github.com/BardezAnAvatar)
