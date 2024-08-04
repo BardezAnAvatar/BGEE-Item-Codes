@@ -2,6 +2,8 @@
 | ---------------------------------- | -------- |
 | Various Scrolls (dynamic list)     | BZ!_____ |
 | Various Potions (dynamic list)     | BZ#_____ |
+| Various Wands (dynamic list)       | BZ-_____ |
+| Various Staves (dynamic list)      | BZ=_____ |
 | Amulet of Protection +2            | BZAML14B |
 | Wizard Slayer +1                   | BZ1AX07A |
 | Wizard Slayer +2                   | BZ1AX07B |
