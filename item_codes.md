@@ -6,7 +6,6 @@
 | Various Staves (dynamic list)      | BZ=_____ |
 | Scroll Scribe Kit                  | BZMSCST  |
 | Alchemy Kit                        | BZMSCAK  |
-| ---------------------------------- | -------- |
 | Amulet of Protection +2            | BZAML14B |
 | Wizard Slayer +1                   | BZ1AX07A |
 | Wizard Slayer +2                   | BZ1AX07B |
